@@ -3,6 +3,6 @@ It's a CSS Clock which takes in the current time using JavaScript and updates th
 
 <!-- [Do Visit](https://js-ghadyal.netlify.app/). -->
 
-<a href="https://js-ghadyal.netlify.app/" target="_blank">Do Visit</a>
+<a href="https://js-ghadyal.netlify.app/" target="_blank">https://js-ghadyal.netlify.app/</a>
 
 ![Preview Image](./ghadyal_.png)
